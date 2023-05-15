@@ -8,6 +8,13 @@ USB microBまたはUSB Type-Cのレセプタクルと、USB-A（平型）のレ�
 
 USB-C型のほうは、CC1/CC2とGNDのあいだに0603サイズのチップ抵抗をとりつけられるパッドがあります。ここに5.1kΩ抵抗をとりつけることで、USB PD対応ACアダプタ等から5Vをとりだすことができます。
 
+
+## 使用例
+
+<img src="https://github.com/akita11/USB-ABC/blob/main/USB-ABC_usage.jpg" width="240px">
+
+microUSB or USB Type-Cコネクタにつけるマグネット型コネクタをとりつけて使うことで、USB-Aコネクタがついている充電アタッチメントなどを使うことができます。
+
 # Author
 
 Junichi Akita (akita@ifdl.jp, @akita11)
